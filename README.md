@@ -1,3 +1,3 @@
 bookminder
 ==========
-Creates bookmarks with timed reminders top visit at later date
+Creates bookmarks with timed reminders to visit at later date
