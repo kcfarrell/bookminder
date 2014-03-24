@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+
+	"name": "BookMinder",
+	"description": "Creates bookmarks with timed reminder to visit them",
+	"version": "1.0",
+
+	"browser action": {
+		"default_icon": "icon.jpg",
+		"default_popup": "popu.html"
+	}
+
+}
